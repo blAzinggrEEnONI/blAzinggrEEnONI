@@ -87,7 +87,7 @@
 
 <div align="center">
 
-![trophies](https://github-profile-trophy.vercel.app/?username=blAzinggrEEnONI&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1&column=7)
+![trophies](https://github-profile-trophy.vercel.app/?username=blAzinggrEEnONI&theme=darkhub&no-frame=true&row=1&column=7)
 
 </div>
 
