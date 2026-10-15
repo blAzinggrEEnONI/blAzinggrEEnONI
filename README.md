@@ -20,6 +20,7 @@
 
 ### 🔐 Security & Pentesting
 - **[Network-Traffic-Analyzer](https://github.com/blAzinggrEEnONI/Network-Traffic-Analyzer)** — Python CLI tool for capturing and analyzing network traffic.
+- **[Spellbook](https://github.com/blAzinggrEEnONI/Spellbook)** — Live web dashboard for the Network-Traffic-Analyzer: FastAPI + WebSocket backend streaming to a React + Recharts frontend.
 - **[PSG](https://github.com/blAzinggrEEnONI/PSG)** — Port scanner written in JavaScript.
 - **[caesar_cipher](https://github.com/blAzinggrEEnONI/caesar_cipher)** — Command-line tool for encrypting, decrypting, and cracking Caesar cipher messages with frequency analysis.
 - **[book-tracker](https://github.com/blAzinggrEEnONI/book-tracker)** — Intentionally vulnerable web app for practising SQL injection.
